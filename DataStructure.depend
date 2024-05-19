@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1707986461 source:c:\users\dell\documents\ds\datastructure\libarray.c
+	<stdio.h>
+	<malloc.h>
+
+1709030165 source:c:\users\dell\documents\ds\datastructure\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libarr.h"
+	<malloc.h>
+	"double_linked_list.h"
+
+1707902560 c:\users\dell\documents\ds\datastructure\libarr.h
+
+1709540074 source:c:\users\dell\documents\ds\datastructure\liblinkedlist.c
+	<malloc.h>
+	"linked_list.h"
+	<stdio.h>
+
+1708446633 source:c:\users\dell\documents\ds\datastructure\linked_list.h
+
+1709540107 c:\users\dell\documents\ds\datastructure\linked_list.h
+
+1709544935 c:\users\dell\documents\ds\datastructure\double_linked_list.h
+
+1710231137 source:c:\users\dell\documents\ds\datastructure\libdoublelinkedlist.c
+	<malloc.h>
+	<stdio.h>
+	"double_linked_list.h"
+	"mylib.h"
+
+1710176031 source:c:\users\dell\documents\ds\datastructure\testdllbeginsertion.c
+	<stdio.h>
+	<stdlib.h>
+	"libarr.h"
+	<malloc.h>
+	"double_linked_list.h"
+	"mylib.h"
+
+1709374211 source:c:\users\dell\documents\ds\datastructure\testlinkedlist.c
+	<stdlib.h>
+	<conio.h>
+	"linked_list.h"
+	"mylib.h"
+
+1713113633 source:c:\users\dell\documents\ds\datastructure\mylib.c
+	<stdlib.h>
+	<time.h>
+
+1712315502 c:\users\dell\documents\ds\datastructure\mylib.h
+
+1709540124 source:c:\users\dell\documents\ds\datastructure\testlldel.c
+	<stdlib.h>
+	"linked_list.h"
+	"mylib.h"
+
+1709549428 source:c:\users\dell\documents\ds\datastructure\testdllinsertion.c
+	<stdlib.h>
+	"mylib.h"
+	"double_linked_list.h"
+
+1710231106 source:c:\users\dell\documents\ds\datastructure\testdlldeletion.c
+	<stdlib.h>
+	"double_linked_list.h"
+	"mylib.h"
+
+1710415166 source:c:\users\dell\documents\ds\datastructure\testcll.c
+	<stdlib.h>
+	"mylib.h"
+	"CLL.h"
+
+1710413571 c:\users\dell\documents\ds\datastructure\cll.h
+
+1710753432 source:c:\users\dell\documents\ds\datastructure\libcll.c
+	"CLL.h"
+	<stdlib.h>
+	<malloc.h>
+
+1710924930 source:c:\users\dell\documents\ds\datastructure\testlogic.c
+	<stdlib.h>
+	"mylib.h"
+
+1712243639 source:c:\users\dell\documents\ds\datastructure\teststack.c
+	<stdlib.h>
+	"mylib.h"
+	<stdio.h>
+
+1712243695 source:c:\users\dell\documents\ds\datastructure\libstack.c
+	"stack.h"
+	"mylib.h"
+	<malloc.h>
+	<stdlib.h>
+
+1712240770 c:\users\dell\documents\ds\datastructure\stack.h
+
+1712164191 source:c:\users\dell\documents\ds\datastructure\testtimers.c
+	<stdlib.h>
+	"mylib.h"
+	<time.h>
+
+1712243626 source:c:\users\dell\documents\ds\datastructure\mylib.h
+
+1712309713 source:c:\users\dell\documents\ds\datastructure\libstackcchar.c
+	"stack_char.h"
+	"mylib.h"
+	<malloc.h>
+	<stdlib.h>
+	<math.h>
+
+1712305553 c:\users\dell\documents\ds\datastructure\stack_char.h
+
+1712315642 source:c:\users\dell\documents\ds\datastructure\testcharstack.c
+	"stack_char.h"
+	<stdio.h>
+
+1712414475 source:c:\users\dell\documents\ds\datastructure\tesrwhile.c
+	<stdio.h>
+	<stdlib.h>
+
+1713364299 source:c:\users\dell\documents\ds\datastructure\testqueue.c
+	<stdlib.h>
+	"mylib.h"
+	"queue.h"
+
+1713019908 c:\users\dell\documents\ds\datastructure\queue.h
+
+1713364440 source:c:\users\dell\documents\ds\datastructure\libqueue.c
+	"queue.h"
+	<stdlib.h>
+	<malloc.h>
+	"linked_list_queue.h"
+
+1713280253 c:\users\dell\documents\ds\datastructure\linked_list_queue.h
+
+1714664834 source:c:\users\dell\documents\ds\datastructure\testtree.c
+	<stdlib.h>
+	"Tree.h"
+
+1714661922 c:\users\dell\documents\ds\datastructure\tree.h
+
+1714664804 source:c:\users\dell\documents\ds\datastructure\libtree.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	"mylib.h"
+	"Tree.h"
+
